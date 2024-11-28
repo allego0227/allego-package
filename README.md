@@ -28,5 +28,6 @@ $funcB = Practice::Practice();
 echo $funcB; // It will display "Practice"
 ```
 
-## License
-MIT
+## Licens
+
+[MIT ©️ 2024 Allego-Chung](LICENSE)
