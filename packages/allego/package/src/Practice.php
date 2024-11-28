@@ -1,6 +1,6 @@
 <?php
 
-namespace Vteam\Package;
+namespace Allego\Package;
 
 use App\Http\Controllers\Controller;
 
