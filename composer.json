@@ -13,6 +13,8 @@
     },
     "autoload": {
         "psr-4": {
+          "Vteam\\Package\\": "packages/vteam/package/src/",
+          "Allego\\Package\\": "packages/allego/package/src/"
         }
     },
     "minimum-stability": "stable",

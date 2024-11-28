@@ -1,0 +1,15 @@
+{
+    "name": "alleg/package",
+    "autoload": {
+        "psr-4": {
+            "Vteam\\Package\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Allego",
+            "email": "allego.vteam@gmail.com"
+        }
+    ],
+    "require": {}
+}
